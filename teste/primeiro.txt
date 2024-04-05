@@ -1,0 +1,9 @@
+a=100,
+b=10:
+c=1;
+
+a é passado por referencia, portanto afeta o primeiro valor de 100 com o acrescimo de 50 perfaz um total de 150;
+b é passado por valor, portanto nao altera;
+c recebe o valor atraves de c=funcao(a,b) recebe o valor de b totalizando c=b+1, dando valor 11
+
+150:10:11
