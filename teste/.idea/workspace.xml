@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e987b39-04a0-45ee-b2fb-d8f97a53ef34" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ativ/Makefile.win" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ativ/ativ.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ativ/ativ.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ativ/ativ.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ativ/ativcpp.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ativ/c++ strut.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ativ/c++ strut.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ativ/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/.idea/projetofinal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/Agenda.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/Agenda.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/Contacto.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/Contacto.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/.cmake/api/v1/reply/cache-v2-5ffbc75fe89fc92e1f98.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-6bb64cec008e69533233.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6f6ed3fc7ecc31d9c9f1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/.cmake/api/v1/reply/index-2024-03-26T17-18-46-0791.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/.cmake/api/v1/reply/target-projetofinal-Debug-52f1dcd50cd14aa7258d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-c966953c01b61b3b683a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetofinal/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/.idea/tarefa08_02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/.cmake/api/v1/reply/cache-v2-fc1542ec1c77b34d7e12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-6b5830c10edd6ef41794.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-2868327fd0eb0e5e3b8a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/.cmake/api/v1/reply/index-2024-02-08T19-15-07-0128.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/.cmake/api/v1/reply/target-tarefa08_02-Debug-82e0a44f7a8924b22c06.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-c966953c01b61b3b683a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefa08_02/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/.idea/tarefaaula.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b78e3978bf7a4f18e5e9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-53d5a19fdadd3af3b06b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5e38ed1b571275f334bc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/.cmake/api/v1/reply/index-2024-01-31T18-01-01-0969.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/.cmake/api/v1/reply/target-tarefaaula-Debug-6c5c73705d264e4c7b55.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-c966953c01b61b3b683a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/cmake-build-debug/exercicio2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/.cmake/api/v1/reply/cache-v2-830ef55fb2a4eebda8fa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-5473f5703ee8ffbb07a3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-7cacd8129f6892330c15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/.cmake/api/v1/reply/index-2024-01-31T18-08-54-0096.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/.cmake/api/v1/reply/target-tarefaaula2-Debug-1a6582bbacad1d7a8752.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-c966953c01b61b3b683a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarefaaula2/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.3" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2fc0SxawnTh1IR0QS4bRVr5HXwl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e987b39-04a0-45ee-b2fb-d8f97a53ef34" name="Changes" comment="" />
+      <created>1714085063412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714085063412</updated>
+      <workItem from="1714085065158" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

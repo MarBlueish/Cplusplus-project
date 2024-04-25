@@ -1,3 +1,0 @@
-C:/Users/Marco/CLionProjects/tarefa08_02/cmake-build-debug/CMakeFiles/tarefa08_02.dir
-C:/Users/Marco/CLionProjects/tarefa08_02/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Marco/CLionProjects/tarefa08_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
